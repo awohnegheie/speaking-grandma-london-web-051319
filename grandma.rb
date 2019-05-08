@@ -12,3 +12,6 @@ if phrase == "I LOVE YOU GRANDMA!"
 end
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+end
+
+speak_to_grandma("HELLO THERE")
