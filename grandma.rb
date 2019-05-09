@@ -10,6 +10,8 @@
 # NO, NOT SINCE 1938!
 
 def speak_to_grandma(speak)
+  if phrase == "I LOVE YOU GRANDMA!"
+      return "I LOVE YOU TOO PUMPKIN!"
   if speak == speak.upcase
     "NO, NOT SINCE 1938!"
   else
